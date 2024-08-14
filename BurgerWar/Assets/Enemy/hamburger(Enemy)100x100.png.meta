@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: ca8f0b66fbc17d843a6f2e8976db60d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -172863670309584191
+    second: hamburger(Enemy)100x100_0
+  - first:
+      213: 8292209823554878976
+    second: hamburger(Enemy)100x100_1
+  - first:
+      213: 4666082857260888952
+    second: hamburger(Enemy)100x100_2
+  - first:
+      213: -7044508842659660964
+    second: hamburger(Enemy)100x100_3
+  - first:
+      213: -2576475569760947545
+    second: hamburger(Enemy)100x100_4
+  - first:
+      213: 5771182077391345956
+    second: hamburger(Enemy)100x100_5
+  - first:
+      213: 3414489032355537978
+    second: hamburger(Enemy)100x100_6
+  - first:
+      213: 2319019747115148243
+    second: hamburger(Enemy)100x100_7
+  - first:
+      213: 7370838285094050250
+    second: hamburger(Enemy)100x100_8
+  - first:
+      213: 8333070271497463483
+    second: hamburger(Enemy)100x100_9
+  - first:
+      213: -551183091000812096
+    second: hamburger(Enemy)100x100_10
+  - first:
+      213: 6501641944659532161
+    second: hamburger(Enemy)100x100_11
+  - first:
+      213: 4709074038536166737
+    second: hamburger(Enemy)100x100_12
+  - first:
+      213: 7110108128466806394
+    second: hamburger(Enemy)100x100_13
+  - first:
+      213: 3506974847566144314
+    second: hamburger(Enemy)100x100_14
+  - first:
+      213: -6172363012255713410
+    second: hamburger(Enemy)100x100_15
+  - first:
+      213: -6135552655118383940
+    second: hamburger(Enemy)100x100_16
+  - first:
+      213: -7124511661219769456
+    second: hamburger(Enemy)100x100_17
+  - first:
+      213: -9145321898377938676
+    second: hamburger(Enemy)100x100_18
+  - first:
+      213: 4945521746583337211
+    second: hamburger(Enemy)100x100_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 315
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c280a0686dd99df0800000000000000
+      internalID: -172863670309584191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 314
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e3ef786e8d31370800000000000000
+      internalID: 8292209823554878976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 315
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873339ff2a141c040800000000000000
+      internalID: 4666082857260888952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 315
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b3c20f780ec3e90800000000000000
+      internalID: -7044508842659660964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 315
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a23debbe158e3cd0800000000000000
+      internalID: -2576475569760947545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 215
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4291309b58b571050800000000000000
+      internalID: 5771182077391345956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 216
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34e4072fa3b26f20800000000000000
+      internalID: 3414489032355537978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 215
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d32aed5c20de2020800000000000000
+      internalID: 2319019747115148243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 216
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac951ef2e5a7a4660800000000000000
+      internalID: 7370838285094050250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 215
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb669fce24305a370800000000000000
+      internalID: 8333070271497463483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 115
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdd1b626edc958f0800000000000000
+      internalID: -551183091000812096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 115
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1891638c6e87a3a50800000000000000
+      internalID: 6501641944659532161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_12
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 115
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d56f763edf95140800000000000000
+      internalID: 4709074038536166737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 115
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76a1effbad2ca260800000000000000
+      internalID: 7110108128466806394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 115
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33e8690b074ba030800000000000000
+      internalID: 3506974847566144314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 14
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77fcbdfa8c575aa0800000000000000
+      internalID: -6172363012255713410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 14
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4c6f22e532adaa0800000000000000
+      internalID: -6135552655118383940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 15
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0931ed23466a02d90800000000000000
+      internalID: -7124511661219769456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 15
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09f49aff2a451180800000000000000
+      internalID: -9145321898377938676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamburger(Enemy)100x100_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 15
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8b11673d502a440800000000000000
+      internalID: 4945521746583337211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

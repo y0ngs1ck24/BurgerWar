@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: 39c4cc970b3ad6e41a0ca7d37a8b526d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1700822437100285560
+    second: cola2_100x100_0
+  - first:
+      213: -5512917195541374833
+    second: cola2_100x100_1
+  - first:
+      213: 4791219111912554812
+    second: cola2_100x100_2
+  - first:
+      213: 2045828838432632467
+    second: cola2_100x100_3
+  - first:
+      213: -7504529994844077391
+    second: cola2_100x100_4
+  - first:
+      213: 8589625108480907624
+    second: cola2_100x100_5
+  - first:
+      213: 870807096641203793
+    second: cola2_100x100_6
+  - first:
+      213: -3409481083108308603
+    second: cola2_100x100_7
+  - first:
+      213: 1615685804494169053
+    second: cola2_100x100_8
+  - first:
+      213: -8684644442788837704
+    second: cola2_100x100_9
+  - first:
+      213: 6017461155790481732
+    second: cola2_100x100_10
+  - first:
+      213: 4732748421560543700
+    second: cola2_100x100_11
+  - first:
+      213: -6153986500744058837
+    second: cola2_100x100_12
+  - first:
+      213: -1120313263449321660
+    second: cola2_100x100_13
+  - first:
+      213: 4218153203989323822
+    second: cola2_100x100_14
+  - first:
+      213: -5562245788825068788
+    second: cola2_100x100_15
+  - first:
+      213: -968505458840281485
+    second: cola2_100x100_16
+  - first:
+      213: 8004162709460376261
+    second: cola2_100x100_17
+  - first:
+      213: -3809349371977743120
+    second: cola2_100x100_18
+  - first:
+      213: -1237059431824186940
+    second: cola2_100x100_19
+  - first:
+      213: 2836999057725619843
+    second: cola2_100x100_20
+  - first:
+      213: -5711492406755862546
+    second: cola2_100x100_21
+  - first:
+      213: -5984674116968853132
+    second: cola2_100x100_22
+  - first:
+      213: -4291712765252294652
+    second: cola2_100x100_23
+  - first:
+      213: -7253524733699455384
+    second: cola2_100x100_24
+  - first:
+      213: 8239677576869640083
+    second: cola2_100x100_25
+  - first:
+      213: 7349868321940329622
+    second: cola2_100x100_26
+  - first:
+      213: -8501312156230339506
+    second: cola2_100x100_27
+  - first:
+      213: 7388422568379684222
+    second: cola2_100x100_28
+  - first:
+      213: 1975748971611144816
+    second: cola2_100x100_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cola2_100x100_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 509
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8819f9a31077568e0800000000000000
+      internalID: -1700822437100285560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 509
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f881d93f40f2e73b0800000000000000
+      internalID: -5512917195541374833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 509
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c314c96b564dd7240800000000000000
+      internalID: 4791219111912554812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 509
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ee6024d7e346c10800000000000000
+      internalID: 2045828838432632467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 509
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b20e0bfabd8ad790800000000000000
+      internalID: -7504529994844077391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 409
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869d7c0c68a743770800000000000000
+      internalID: 8589625108480907624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 409
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e203fc07ab51c00800000000000000
+      internalID: 870807096641203793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 410
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5894ae4e4071fa0d0800000000000000
+      internalID: -3409481083108308603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 409
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3248dcda11c6610800000000000000
+      internalID: 1615685804494169053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 409
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6400b74e1f97780800000000000000
+      internalID: -8684644442788837704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 309
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4496a901a01528350800000000000000
+      internalID: 6017461155790481732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 309
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9286e3d991ea140800000000000000
+      internalID: 4732748421560543700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 309
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28e99ef1e5a89aa0800000000000000
+      internalID: -6153986500744058837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 309
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fc1f6c509d370f0800000000000000
+      internalID: -1120313263449321660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_14
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 309
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20a5f38df3e98a30800000000000000
+      internalID: 4218153203989323822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 209
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b5ba3dceeeec2b0800000000000000
+      internalID: -5562245788825068788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 209
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e5cc2aa6d2f82f0800000000000000
+      internalID: -968505458840281485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 209
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca50dd839f741f60800000000000000
+      internalID: 8004162709460376261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 209
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4c8e1dde8722bc0800000000000000
+      internalID: -3809349371977743120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 209
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1a210400515dee0800000000000000
+      internalID: -1237059431824186940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 109
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e7ad7ac9b0f5720800000000000000
+      internalID: 2836999057725619843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 109
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7d9f5bae3bcb0b0800000000000000
+      internalID: -5711492406755862546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 108
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471d899499a22fca0800000000000000
+      internalID: -5984674116968853132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_23
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 108
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408a02d7af5c074c0800000000000000
+      internalID: -4291712765252294652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_24
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 109
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866855e7fad465b90800000000000000
+      internalID: -7253524733699455384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 9
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397f019b917395270800000000000000
+      internalID: 8239677576869640083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 9
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694562b2c4afff560800000000000000
+      internalID: 7349868321940329622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 9
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e443e23c2a5450a80800000000000000
+      internalID: -8501312156230339506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_28
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 9
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7510ce2e23f88660800000000000000
+      internalID: 7388422568379684222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola2_100x100_29
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 9
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072c932c8354b6b10800000000000000
+      internalID: 1975748971611144816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

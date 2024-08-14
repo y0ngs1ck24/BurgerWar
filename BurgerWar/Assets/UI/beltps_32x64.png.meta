@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: e0fa808c726f68743bbc1963df727431
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3782652691883243800
+    second: beltps_32x64_0
+  - first:
+      213: 8222026280792521584
+    second: beltps_32x64_1
+  - first:
+      213: -8551398993483873549
+    second: beltps_32x64_2
+  - first:
+      213: 8837917658504527071
+    second: beltps_32x64_3
+  - first:
+      213: -4802942080638265810
+    second: beltps_32x64_4
+  - first:
+      213: 771164446256442121
+    second: beltps_32x64_5
+  - first:
+      213: -4961663172255833240
+    second: beltps_32x64_6
+  - first:
+      213: -6465977628857650443
+    second: beltps_32x64_7
+  - first:
+      213: 5300632831665324045
+    second: beltps_32x64_8
+  - first:
+      213: 7207716506118231767
+    second: beltps_32x64_9
+  - first:
+      213: -513311578155611494
+    second: beltps_32x64_10
+  - first:
+      213: -4488350792597965924
+    second: beltps_32x64_11
+  - first:
+      213: -4794293143639536132
+    second: beltps_32x64_12
+  - first:
+      213: 3847186839544105991
+    second: beltps_32x64_13
+  - first:
+      213: 5388188727828614905
+    second: beltps_32x64_14
+  - first:
+      213: -6126036304452699844
+    second: beltps_32x64_15
+  - first:
+      213: 7965746050208438913
+    second: beltps_32x64_16
+  - first:
+      213: -9043290571135685367
+    second: beltps_32x64_17
+  - first:
+      213: 181994675596346882
+    second: beltps_32x64_18
+  - first:
+      213: 7768400805149381969
+    second: beltps_32x64_19
+  - first:
+      213: -1693303308314369152
+    second: beltps_32x64_20
+  - first:
+      213: 8204078042231726010
+    second: beltps_32x64_21
+  - first:
+      213: 5289607722013524420
+    second: beltps_32x64_22
+  - first:
+      213: 2350211284858781211
+    second: beltps_32x64_23
+  - first:
+      213: 468538699697297698
+    second: beltps_32x64_24
+  - first:
+      213: 7904570231764160805
+    second: beltps_32x64_25
+  - first:
+      213: -4774438866413171995
+    second: beltps_32x64_26
+  - first:
+      213: 2145138026465557727
+    second: beltps_32x64_27
+  - first:
+      213: 1835252616474303871
+    second: beltps_32x64_28
+  - first:
+      213: -5103899561711765995
+    second: beltps_32x64_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beltps_32x64_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 324
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6cf970b61518bc0800000000000000
+      internalID: -3782652691883243800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 324
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b709817518a1270800000000000000
+      internalID: 8222026280792521584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 324
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2c2c43ce3535980800000000000000
+      internalID: -8551398993483873549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 324
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc705df84796aa70800000000000000
+      internalID: 8837917658504527071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 324
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26d7ceef95885db0800000000000000
+      internalID: -4802942080638265810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 261
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ba6826af9b3ba00800000000000000
+      internalID: 771164446256442121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 260
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863ad8202a1a42bb0800000000000000
+      internalID: -4961663172255833240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 261
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f23152da9b3446a0800000000000000
+      internalID: -6465977628857650443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 260
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d004f28f971af8940800000000000000
+      internalID: 5300632831665324045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 260
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d695e469f3f60460800000000000000
+      internalID: 7207716506118231767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 197
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a80fcd6d950e8f0800000000000000
+      internalID: -513311578155611494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 197
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93fad30cbc26b1c0800000000000000
+      internalID: -4488350792597965924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 197
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd464089cf377db0800000000000000
+      internalID: -4794293143639536132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 196
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c859b1c04f36530800000000000000
+      internalID: 3847186839544105991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 196
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe0df0a911b6ca40800000000000000
+      internalID: 5388188727828614905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 132
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3933ff2072fbfaa0800000000000000
+      internalID: -6126036304452699844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 133
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a15ad04d30c8e60800000000000000
+      internalID: 7965746050208438913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 132
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d61d29327cf7280800000000000000
+      internalID: -9043290571135685367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 132
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206cee57133968200800000000000000
+      internalID: 181994675596346882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 133
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15599cf9f57eecb60800000000000000
+      internalID: 7768400805149381969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 69
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083ade2dc9d2088e0800000000000000
+      internalID: -1693303308314369152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 68
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfddc8238dbad170800000000000000
+      internalID: 8204078042231726010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 68
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c187c79236786940800000000000000
+      internalID: 5289607722013524420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 68
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e3f1d26b0ad9020800000000000000
+      internalID: 2350211284858781211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_24
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 69
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2291bf60775908600800000000000000
+      internalID: 468538699697297698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5211e6edebca2bd60800000000000000
+      internalID: 7904570231764160805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eacf95a529cdbdb0800000000000000
+      internalID: -4774438866413171995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_27
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 4
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc79ad6baf05cd10800000000000000
+      internalID: 2145138026465557727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_28
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 5
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d9e06f780287910800000000000000
+      internalID: 1835252616474303871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beltps_32x64_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 5
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516f5e6e36e4b29b0800000000000000
+      internalID: -5103899561711765995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
